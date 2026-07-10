@@ -85,7 +85,7 @@ Generate Answer using Gemini
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/url-rag.git
+git clone https://github.com/yadavnitesh86/url-rag.git
 cd url-rag
 ```
 
